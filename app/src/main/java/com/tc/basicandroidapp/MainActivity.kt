@@ -8,8 +8,8 @@ import android.widget.Button
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_login)
-        val btn_login = findViewById<Button>(R.id.login)
+        setContentView(R.layout.activity_main)
+
 
 //        btn_login.setOnClickListener {
 //            //This is basically switch screen the this keyword is pointing
